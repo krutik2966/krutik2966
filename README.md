@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krutik Parmar.</h1>
-<h3 align="center">A fourth-year ICT undergraduate student at DAIICT with an interest in Data Science, Deep Learning and Computer Vision.</h3>
+<h3 align="center">A first-year CS graduate student at ASU with an interest in Software Development.</h3>
 
-- 📫 How to reach me **krutik2966@gmail.com**
+- 📫 How to reach me **krutik1734@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
