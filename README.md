@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krutik Parmar.</h1>
-<h3 align="center">A first-year CS graduate student at ASU with an interest in Software Development and Machine Learning.</h3>
+<h3 align="center">A final-year CS graduate student at ASU. I am interested in Software Development and Machine Learning.</h3>
 
 - 📫 How to reach me **krutik1734@gmail.com**
 
